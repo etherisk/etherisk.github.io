@@ -1,4 +1,4 @@
-var web3 = require("web3");
+var Web3 = require("web3");
 
 
 ReactDOM.render(
